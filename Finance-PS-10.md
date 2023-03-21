@@ -15,7 +15,7 @@ over the universe is subtracted to neutralize the alpha.
 
 #
 
-The PnL generated is 381M over a span of 8 years.
-The Sharpe Ratio is 0.4
+The PnL generated is 401M over a span of 8 years.
+The Sharpe Ratio is 1.65
 
 -Chinmay Amrutkar
